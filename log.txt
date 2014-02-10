@@ -1,0 +1,2 @@
+ERROR 3: Cannot open file '/var/tmp/MyGeoData-DataCache/2014-02-10-02-13-26_nkbqh/result/N03-13_12_130401.json'
+ERROR 3: Cannot open file '/var/tmp/MyGeoData-DataCache/2014-02-10-02-13-26_nkbqh/result/N03-13_12_130401.json'
